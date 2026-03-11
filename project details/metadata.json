@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FolioFlow - AI Portfolio Builder",
+  "description": "A professional portfolio builder that uses Gemini AI to craft high-impact descriptions, summaries, and project narratives for developers and creatives.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
